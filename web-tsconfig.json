@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target": "es2018",
+
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "noEmitOnError": true,
+    "sourceMap": true
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}
